@@ -3,4 +3,5 @@
 /* lesson styles */
 
 .container {
+  display: grid;
 }
